@@ -1,0 +1,2 @@
+# Credit-Card-Clients-at-Risk-Identifying-Default-Patterns
+This project uses data analytics and machine learning to predict credit card defaults. It analyzes client financial and demographic factors, identifies key risk drivers, and builds predictive models. Insights aim to help financial institutions reduce risk, optimize credit policies, and improve decision-making for better financial outcomes.
